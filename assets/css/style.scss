@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  line-height: 2 !important; /* 全局 2 倍行距 */
+}
+
+section {
+  text-align: justify; /* 两端对齐 */
+}
+
+header img {
+  margin-top: 20px;
+  margin-bottom: 25px; /* 保持照片下方的间距 */
+  display: block; /* 使其独占一行以便行距生效 */
+}
+
+header p {
+  margin-bottom: 20px; /* 保持描述文字下方的间距 */
+}
+
+header p a {
+  text-decoration: none !important;
+}
+
+header p a:hover {
+  text-decoration: underline !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif;
+}
