@@ -44,3 +44,16 @@ Debt Management, International Political Economy, and Governance
     alone than by the organization of public authority, policy capacity, and the choice between supervisory and 
     enforcement-led control.
     </details>
+
+4. No Clean Exit: Chinese Finance, Paris Club  Recourse, and Layered Debt Governance
+   <details>
+   <summary><b>Abstract</b></summary>
+   In the 2000–2017 observed window, Chinese bilateral finance expanded across sovereign borrowers without supplying a 
+   clean substitute for Paris Club recourse. I show this with a country-year panel that merges Paris Club events, 
+   Chinese restructurings, China swap-line activity, and Chinese debt-stock measures from Horn et al. (2021). 
+   Chinese debt exposure spreads rapidly across the sample, and by 2010–2015 most Paris Club event years occur in 
+   countries with positive Chinese debt exposure. Yet the main regression result is not substitution. A negative pooled 
+   association for swap lines turns positive with country and year fixed effects, and broader Chinese debt measures are 
+   statistically and substantively close to zero. The paper therefore interprets Chinese finance as layering onto, 
+   rather than replacing, Paris Club-centered debt governance in the observed pre-2018 window.
+   </details>
