@@ -1,4 +1,4 @@
-My name is Richard Yifan Zhou, PhD Candidate at the Department of Finance, [Queen Mary University of London](https://www.qmul.ac.uk/). 
+I'm Richard Yifan Zhou, PhD Candidate at the Department of Finance, [Queen Mary University of London](https://www.qmul.ac.uk/). 
 I ever held research affiliates at the [Boao Forum for Asia](https://english.boaoforum.org/), the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), and [Peking University](https://english.pku.edu.cn/), 
 contributing to several projects for the [People's Bank of China](https://www.pbc.gov.cn/en/3688006/index.html) and the [Hong Kong Green Finance Association](https://www.hkgreenfinance.org/).
 
@@ -6,7 +6,11 @@ I hold an M.S. in Finance from the School of Finance, [Renmin University](https:
 and was a Visiting Doctoral Student at the Business School, [Imperial College London](https://www.imperial.ac.uk/).
 
 ### Research Interests
-Debt Management, International Political Economy, and Governance
+I study how political, macroeconomic, financial, and technological shocks reshape firm resources, capabilities, and 
+strategic behavior. A complementary stream of my research examines sovereign and local government debt markets, monetary 
+systems, and how these institutional forces influence firm decision-making and market outcomes.
+
+Keywords: Strategic Management, Global Strategy, International Business, International Political Economy, Debt Management, and Technology Governance
 
 ### Working Papers
 1.  [The Digital Reconstruction of U.S. Financial Dominance: Challenge and Governance of Non-Sovereign Digital Assets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to MPSA, PSA, BISA, Junior IO, GSIPE, and Renmin SISCDS)
@@ -56,4 +60,21 @@ Debt Management, International Political Economy, and Governance
    association for swap lines turns positive with country and year fixed effects, and broader Chinese debt measures are 
    statistically and substantively close to zero. The paper therefore interprets Chinese finance as layering onto, 
    rather than replacing, Paris Club-centered debt governance in the observed pre-2018 window.
+   </details>
+
+5. AI Supply Chain Giants, Macroeconomic Outcomes, and Governance Capacity
+   <details>
+   <summary><b>Abstract</b></summary>
+   This paper examines whether country exposure to listed AI supply-chain giants is associated with macroeconomic 
+   performance and whether governance capacity moderates that relationship. I combine local market-cap snapshots for 
+   major AI-linked firms with World Bank country-year indicators to build an unbalanced panel covering 217 countries 
+   from 2010 to 2024. Two-way fixed-effects models with country-clustered standard errors show that the AI market-cap-to-GDP 
+   proxy is positively associated with labor productivity growth, but that association attenuates as government 
+   effectiveness rises. The same interaction is weaker and statistically imprecise for GDP growth, while AI market-cap 
+   share results remain less stable across specifications. The strongest identification-oriented check is a post-ChatGPT 
+   differential-exposure design that freezes 2022 baseline exposure and governance, but its coefficients are weak and
+   imprecise. Robustness checks also indicate that the negative productivity interaction remains in the no-pandemic 
+   sample and weakens materially in a within-country first-difference design. The paper therefore advances a bounded 
+   public-administration claim: state capacity shapes how AI-linked market concentration is absorbed through national 
+   systems, but the current evidence remains observational rather than causal.
    </details>
