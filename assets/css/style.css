@@ -39,6 +39,7 @@ header {
   width: 270px;
   float: left;
   position: fixed;
+  line-height: 1;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -77,6 +78,8 @@ header p {
 }
 
 header h1 {
+  font-size: 60px;
+  line-height: 1.05;
   white-space: nowrap;
 }
 
