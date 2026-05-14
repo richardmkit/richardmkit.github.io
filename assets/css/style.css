@@ -32,6 +32,10 @@ section {
   text-align: justify;
 }
 
+details {
+  margin: 0;
+}
+
 header img {
   margin-top: 20px;
   margin-bottom: 25px;
