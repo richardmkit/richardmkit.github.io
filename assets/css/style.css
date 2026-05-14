@@ -79,9 +79,8 @@ header p {
 
 header h1 {
   margin-bottom: 40px;
-  font-size: 40px;
-  line-height: 1;
-  white-space: nowrap;
+  font-size: 26px;
+  line-height: 1.4;
 }
 
 @media print, screen and (max-width: 960px) {
