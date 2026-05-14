@@ -32,6 +32,11 @@ section {
   text-align: justify;
 }
 
+section ol {
+  padding-left: 0;
+  list-style-position: inside;
+}
+
 details {
   margin: 0;
 }
