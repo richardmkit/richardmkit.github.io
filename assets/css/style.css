@@ -39,7 +39,7 @@ header {
   width: 270px;
   float: left;
   position: fixed;
-  line-height: 1;
+  line-height: 2;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -79,7 +79,7 @@ header p {
 
 header h1 {
   font-size: 50px;
-  line-height: 1;
+  line-height: 2;
   white-space: nowrap;
 }
 
