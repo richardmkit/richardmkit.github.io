@@ -8,7 +8,7 @@ I study how political, macroeconomic, financial, and technological shocks reshap
 Keywords: Strategic Management, Global Strategy, International Business, International Political Economy, Debt Management, and Technology Governance
 
 ### Working Papers
-1. [Digital Shadow Dollar: How Private Digital Money Reproduces Financial Dominance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to MPSA, PSA, BISA, Junior IO, GSIPE, and Renmin SISCDS)
+1. [Shadow Dollar: How Private Digital Money Reproduces Financial Dominance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to MPSA, PSA, BISA, Junior IO, GSIPE, and Renmin SISCDS)
     <details>
         <summary>Abstract</summary>
         <p>Why does supposedly anti-state money so often reproduce state power? This paper develops Digital Shadow Dollar Theory to explain when privately issued digital money reproduces rather than weakens incumbent financial dominance. Dollar-backed Stablecoins, when anchored to credible redemption and public regulatory authority, extend dollar claims through private token networks and generate digitally mediated dollarization. Using monthly data from July 2015 through December 2025, reduced-form screens, and a Bayesian Structural Vector Autoregression, the analysis shows that persistent dollar strength is associated with Stablecoin balance-sheet expansion and that Stablecoin-led liquidity shocks initially ease funding conditions but then strengthen the dollar index DXY, with transmission dominated by the combined Stablecoin balance sheet rather than Bitcoin prices.</p>
