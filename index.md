@@ -10,16 +10,16 @@ Keywords: Strategic Management, Global Strategy, International Business, Interna
 -->
 
 ### Working Papers
-1. [Private Rails, Public Anchors: Stablecoins and the Infrastructural Reproduction of Dollar Power](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to MPSA, PSA, BISA, Junior IO, GSIPE, and Renmin SISCDS)
+1[Common Shock, Uneven Transmission: Funding Segmentation and the Yield Curve](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857104)
+   <details>
+      <summary>Abstract</summary>
+      <p>How does funding-market segmentation shape the transmission of monetary-policy news to long-term government bond yields, and through which yield-curve components does that transmission occur? Policy news reaches long rates through expected future short rates and, when arbitrage is limited, through the compensation required to absorb duration. Yet institutional funding tiering is rarely observed directly. China's repo market provides an observable cross-tier funding-price wedge in the DR007--R007 spread. I use a five-factor no-arbitrage state-space model to separate 1M--30Y fitted yields into expected-rate and model-implied term-premium components, then identify a common monetary-policy innovation from timestamped PBoC announcements and pre-event-cleaned 1Y FR007-IRS surprises. Expected-rate revisions dominate the front end, while term-premium repricing accounts for an increasing share of the long-end response. At long maturities, high--low conditional differences arise in both components, but the fitted-yield gap mainly reflects the larger, more persistent term-premium difference. Funding segmentation thus shapes the composition and persistence of long-end transmission.</p>
+   </details>
+   
+2[Private Rails, Public Anchors: Stablecoins and the Infrastructural Reproduction of Dollar Power](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to MPSA, PSA, BISA, Junior IO, GSIPE, and Renmin SISCDS)
    <details>
       <summary>Abstract</summary>
       <p>Why does supposedly anti-state money so often reproduce state power? This paper develops Digital Shadow Dollar Theory to explain when privately issued digital money reproduces rather than weakens incumbent financial dominance. Dollar-backed Stablecoins, when anchored to credible redemption and public regulatory authority, extend dollar claims through private token networks and generate digitally mediated dollarization. Using monthly data from July 2015 through December 2025, reduced-form screens, and a Bayesian Structural Vector Autoregression, the analysis shows that persistent dollar strength is associated with Stablecoin balance-sheet expansion and that Stablecoin-led liquidity shocks initially ease funding conditions but then strengthen the dollar index DXY, with transmission dominated by the combined Stablecoin balance sheet rather than Bitcoin prices.</p>
-   </details>
-
-2. [What Moves China Sovereign Yields](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857104)
-   <details>
-      <summary>Abstract</summary>
-      <p>China’s sovereign yield curve is an important monetary-policy signal, but yield movements can reflect revisions to expected short rates, changes in term premia, or both. I construct a no-arbitrage affine state-space benchmark that decomposes the 1M–30Y sovereign curve into these two components. I then combine this decomposition with externally identified PBoC policy surprises to trace monetary-policy transmission across maturities. Using an updated, timestamped dataset of PBoC announcements, I construct pre-event-cleaned one-year FR007-IRS surprises as an external instrument in a Proxy-SVAR and map the identified factor responses through the fixed affine system into maturity-specific yield components. A ten-basis-point IRS-normalized tightening surprise raises the curve broadly, but its composition changes sharply with maturity: expected-rate revisions dominate the front end, whereas term-premium repricing becomes increasingly important from 5Y onward and dominates the 10Y and 30Y responses. Under high observed R007–DR007 segmentation, the same policy shock leaves a larger share of its long-end effect in term premia rather than expected rates, although direct high–low differences are imprecise at many maturities and horizons. These results show that China monetary policy affects long yields through both expected-rate and term-premium channels, with funding segmentation shaping the latter.</p>
    </details>
 
 3. No Clean Exit: Chinese Finance, Paris Club  Recourse, and Layered Debt Governance
