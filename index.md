@@ -10,7 +10,7 @@ Keywords: Strategic Management, Global Strategy, International Business, Interna
 -->
 
 ### Working Papers
-1. [Beyond the Policy Rate: Funding Frictions and Monetary Policy Transmission Along the Yield Curve](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857104) (invited to CCF Computational Economics & Tsinghua University Annual Conference, Sydney Banking and Financial Stability Conference, and Financial Economic Meeting)
+1. [Beyond the Policy Rate: Funding Frictions and Monetary Policy Transmission Along the Yield Curve](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857104) (invited to China Computer Federation Computational Economics & Tsinghua University Annual Conference, Sydney Banking and Financial Stability Conference, and Financial Economic Meeting)
    <details>
       <summary>Abstract</summary>
       <p>How does market funding affect the transmission of monetary-policy operations along the yield curve? China's repo markets reveal the gap between the policy rate and market funding. I use an announcement-news proxy for monetary-policy shocks and an affine decomposition of government-bond yields. In high-gap histories, the same normalised shock produces larger subsequent long-yield responses, predominantly through model-implied term-premium repricing. For central banks, market funding conditions therefore matter both for policy implementation and for interpreting transmission to longer-term financing conditions.</p>
