@@ -10,24 +10,14 @@ Keywords: Strategic Management, Global Strategy, International Business, Interna
 -->
 
 ### Working Papers
-1. [Common Shock, Uneven Transmission: Funding Segmentation and the Yield Curve](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857104) (invited to CCF Computational Economics & Tsinghua University)
+1. [Common Shock, Uneven Transmission: Funding Segmentation and the Yield Curve](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6857104) (invited to CCF Computational Economics, Tsinghua University, Sydney Banking and Financial Stability Conference, and Financial Economic Meeting)
    <details>
       <summary>Abstract</summary>
       <p>How does funding-market segmentation shape the transmission of monetary-policy news to long-term government bond yields, and through which yield-curve components does that transmission occur? Policy news reaches long rates through expected future short rates and, when arbitrage is limited, through the compensation required to absorb duration. Yet institutional funding tiering is rarely observed directly. China's repo market provides an observable cross-tier funding-price wedge in the DR007--R007 spread. I use a five-factor no-arbitrage state-space model to separate 1M--30Y fitted yields into expected-rate and model-implied term-premium components, then identify a common monetary-policy innovation from timestamped PBoC announcements and pre-event-cleaned 1Y FR007-IRS surprises. Expected-rate revisions dominate the front end, while term-premium repricing accounts for an increasing share of the long-end response. At long maturities, high--low conditional differences arise in both components, but the fitted-yield gap mainly reflects the larger, more persistent term-premium difference. Funding segmentation thus shapes the composition and persistence of long-end transmission.</p>
    </details>
-   
-2. [Private Rails, Public Anchors: Stablecoins and the Infrastructural Reproduction of Dollar Power](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to MPSA, PSA, BISA, Junior IO, GSIPE, and Renmin SISCDS)
+
+2. [Private Rails, Public Anchors: Stablecoins and the Infrastructural Reproduction of Dollar Power](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5432575) (invited to Midwest Political Science Association, Political Studies Association, British International Studies Association, Junior International Organization, Global Studies in International Political Economy, and Renmin University School of International Studies Center for Data Science)
    <details>
       <summary>Abstract</summary>
       <p>Why does supposedly anti-state money so often reproduce state power? This paper develops Digital Shadow Dollar Theory to explain when privately issued digital money reproduces rather than weakens incumbent financial dominance. Dollar-backed Stablecoins, when anchored to credible redemption and public regulatory authority, extend dollar claims through private token networks and generate digitally mediated dollarization. Using monthly data from July 2015 through December 2025, reduced-form screens, and a Bayesian Structural Vector Autoregression, the analysis shows that persistent dollar strength is associated with Stablecoin balance-sheet expansion and that Stablecoin-led liquidity shocks initially ease funding conditions but then strengthen the dollar index DXY, with transmission dominated by the combined Stablecoin balance sheet rather than Bitcoin prices.</p>
-   </details>
-
-3. No Clean Exit: Chinese Finance, Paris Club  Recourse, and Layered Debt Governance
-   <details>
-      <summary>Abstract</summary>
-   </details>
-
-4. AI Supply Chain Giants, Macroeconomic Outcomes, and Governance Capacity
-   <details>
-      <summary>Abstract</summary>
    </details>
